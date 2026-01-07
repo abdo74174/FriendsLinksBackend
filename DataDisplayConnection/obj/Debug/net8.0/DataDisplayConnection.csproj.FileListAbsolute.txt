@@ -137,3 +137,11 @@ F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\runtime
 F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Debug\net8.0\DataDisplayConnection.sourcelink.json
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\System.IO.Packaging.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\UglyToad.PdfPig.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\UglyToad.PdfPig.Core.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\UglyToad.PdfPig.Fonts.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\UglyToad.PdfPig.Tokenization.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\UglyToad.PdfPig.Tokens.dll
