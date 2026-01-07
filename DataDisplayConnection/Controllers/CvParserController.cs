@@ -3,6 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 using DataDisplayConnection.models;
 using DataDisplayConnection.Services;
 using System.Text;
+using UglyToad.PdfPig;
+using DocumentFormat.OpenXml.Packaging;
+using DocumentFormat.OpenXml.Wordprocessing;
 
 namespace DataDisplayConnection.Controllers
 {
@@ -18,16 +21,12 @@ namespace DataDisplayConnection.Controllers
             _parserService = parserService;
             _cvStoragePath = Path.Combine(env.ContentRootPath, "UploadedCVs");
             
-            // Create directory if it doesn't exist
             if (!Directory.Exists(_cvStoragePath))
             {
                 Directory.CreateDirectory(_cvStoragePath);
             }
         }
 
-        /// <summary>
-        /// Parse CV from text input
-        /// </summary>
         [HttpPost("parse-text")]
         public ActionResult<CvParseResult> ParseCvText([FromBody] CvUploadRequest request)
         {
@@ -40,7 +39,6 @@ namespace DataDisplayConnection.Controllers
             {
                 var result = _parserService.ParseCvText(request.CvText);
                 
-                // Optionally save the text to a file
                 if (!string.IsNullOrEmpty(request.FileName))
                 {
                     var fileName = $"{SanitizeFileName(request.FileName)}_{DateTime.Now:yyyyMMddHHmmss}.txt";
@@ -56,9 +54,6 @@ namespace DataDisplayConnection.Controllers
             }
         }
 
-        /// <summary>
-        /// Parse CV from uploaded file (PDF, DOCX, TXT)
-        /// </summary>
         [HttpPost("parse-file")]
         public async Task<ActionResult<CvParseResult>> ParseCvFile(IFormFile file)
         {
@@ -67,7 +62,6 @@ namespace DataDisplayConnection.Controllers
                 return BadRequest(new { error = "No file uploaded" });
             }
 
-            // Validate file type
             var allowedExtensions = new[] { ".pdf", ".docx", ".doc", ".txt" };
             var fileExtension = Path.GetExtension(file.FileName).ToLowerInvariant();
             
@@ -78,7 +72,6 @@ namespace DataDisplayConnection.Controllers
 
             try
             {
-                // Save the file
                 var fileName = $"{SanitizeFileName(Path.GetFileNameWithoutExtension(file.FileName))}_{DateTime.Now:yyyyMMddHHmmss}{fileExtension}";
                 var filePath = Path.Combine(_cvStoragePath, fileName);
 
@@ -87,10 +80,8 @@ namespace DataDisplayConnection.Controllers
                     await file.CopyToAsync(stream);
                 }
 
-                // Extract text from file
                 string cvText = await ExtractTextFromFile(filePath, fileExtension);
 
-                // Parse the text
                 var result = _parserService.ParseCvText(cvText);
 
                 return Ok(result);
@@ -99,28 +90,6 @@ namespace DataDisplayConnection.Controllers
             {
                 return StatusCode(500, new { error = "Error parsing CV file", details = ex.Message });
             }
-        }
-
-        /// <summary>
-        /// Get example CV parse result
-        /// </summary>
-        [HttpGet("example")]
-        public ActionResult<CvParseResult> GetExample()
-        {
-            var example = new CvParseResult
-            {
-                FullName = "John Smith",
-                Email = "john.smith@example.com",
-                Phone = "+1-234-567-8900",
-                Skills = new List<string> { "Flutter", ".NET", "SQL", "React", "Node.js" },
-                ExperienceYears = 5,
-                Education = "Bachelor of Science in Computer Science",
-                Certifications = new List<string> { "AWS Certified Developer", "Microsoft Certified: Azure Developer" },
-                Languages = new List<string> { "English", "Spanish" },
-                CvSaved = true
-            };
-
-            return Ok(example);
         }
 
         private string SanitizeFileName(string fileName)
@@ -138,15 +107,33 @@ namespace DataDisplayConnection.Controllers
                     return await System.IO.File.ReadAllTextAsync(filePath);
 
                 case ".pdf":
-                    // For PDF extraction, you would need a library like iTextSharp or PdfPig
-                    // For now, return a message
-                    return "PDF text extraction requires additional library (iTextSharp/PdfPig). Please use text upload for now.";
+                    var pdfText = new StringBuilder();
+                    using (var document = PdfDocument.Open(filePath))
+                    {
+                        foreach (var page in document.GetPages())
+                        {
+                            pdfText.AppendLine(page.Text);
+                        }
+                    }
+                    return pdfText.ToString();
 
                 case ".docx":
+                    var docxText = new StringBuilder();
+                    using (var wordDocument = WordprocessingDocument.Open(filePath, false))
+                    {
+                        var body = wordDocument.MainDocumentPart?.Document.Body;
+                        if (body != null)
+                        {
+                            foreach (var text in body.Descendants<Text>())
+                            {
+                                docxText.Append(text.Text);
+                            }
+                        }
+                    }
+                    return docxText.ToString();
+
                 case ".doc":
-                    // For DOCX extraction, you would need DocumentFormat.OpenXml or similar
-                    // For now, return a message
-                    return "DOCX text extraction requires additional library (DocumentFormat.OpenXml). Please use text upload for now.";
+                    return "Legacy .doc format not fully supported for text extraction. Please use .pdf or .docx.";
 
                 default:
                     throw new NotSupportedException($"File type {extension} is not supported");
