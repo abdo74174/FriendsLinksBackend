@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "ql1wPBHQV2c=",
-  "success": false,
+  "dgSpecHash": "nX3vIQ+lXV4=",
+  "success": true,
   "projectFilePath": "f:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
@@ -50,6 +50,7 @@
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\pdfpig\\0.1.8\\pdfpig.0.1.8.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
@@ -89,17 +90,5 @@
     "C:\\Users\\pc\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1103",
-      "level": "Error",
-      "message": "Unable to find a stable package UglyToad.PdfPig with version (>= 0.1.8)\r\n  - Found 2 version(s) in nuget.org [ Nearest version: 0.1.9-alpha001-patch1 ]\r\n  - Found 0 version(s) in Microsoft Visual Studio Offline Packages",
-      "projectPath": "f:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
-      "filePath": "f:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
-      "libraryId": "UglyToad.PdfPig",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -145,3 +145,5 @@ F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\UglyToa
 F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\UglyToad.PdfPig.Fonts.dll
 F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\UglyToad.PdfPig.Tokenization.dll
 F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\UglyToad.PdfPig.Tokens.dll
+f:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+f:\projects\DataDisplayConnection\DataDisplayConnection\bin\Debug\net8.0\UglyToad.PdfPig.Package.dll
