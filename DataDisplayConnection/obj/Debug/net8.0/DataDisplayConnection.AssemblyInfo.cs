@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataDisplayConnection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+161e98c30ceebe24ad7295838094076110cde897")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1e4f554efd836eaa9a8830bfe12350e48bbdd09")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataDisplayConnection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataDisplayConnection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
