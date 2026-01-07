@@ -137,3 +137,4 @@ F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\refin
 F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\DataDisplayConnection.pdb
 F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\DataDisplayConnection.genruntimeconfig.cache
 F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\ref\DataDisplayConnection.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\DataDisplayConnection.sourcelink.json

@@ -126,3 +126,4 @@ F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\win-x
 F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\win-x86\DataDisplayConnection.pdb
 F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\win-x86\DataDisplayConnection.genruntimeconfig.cache
 F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\win-x86\ref\DataDisplayConnection.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\win-x86\DataDisplayConnection.sourcelink.json

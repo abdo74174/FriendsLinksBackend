@@ -49,6 +49,12 @@ namespace DataDisplayConnection.Controllers
                 existingProfile.Facebook = profile.Facebook;
                 existingProfile.Portfolio = profile.Portfolio;
                 existingProfile.CvBase64 = profile.CvBase64;
+                existingProfile.Phone = profile.Phone;
+                existingProfile.Skills = profile.Skills;
+                existingProfile.ExperienceYears = profile.ExperienceYears;
+                existingProfile.Education = profile.Education;
+                existingProfile.Certifications = profile.Certifications;
+                existingProfile.Languages = profile.Languages;
                 
                 await _context.SaveChangesAsync();
                 return Ok(existingProfile);
