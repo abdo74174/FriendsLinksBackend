@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataDisplayConnection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85fe5914a1a1da3dff9fcc2c11f61b7817ebc349")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2f8a869bab9bb77f4d70081662006984736befa")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataDisplayConnection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataDisplayConnection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

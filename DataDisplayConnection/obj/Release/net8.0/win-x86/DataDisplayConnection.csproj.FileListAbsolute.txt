@@ -127,3 +127,11 @@ F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\win-x
 F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\win-x86\DataDisplayConnection.genruntimeconfig.cache
 F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\win-x86\ref\DataDisplayConnection.dll
 F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\win-x86\DataDisplayConnection.sourcelink.json
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\win-x86\DocumentFormat.OpenXml.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\win-x86\DocumentFormat.OpenXml.Framework.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\win-x86\System.IO.Packaging.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\win-x86\UglyToad.PdfPig.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\win-x86\UglyToad.PdfPig.Core.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\win-x86\UglyToad.PdfPig.Fonts.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\win-x86\UglyToad.PdfPig.Tokenization.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\win-x86\UglyToad.PdfPig.Tokens.dll

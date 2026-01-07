@@ -4822,11 +4822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
+      "projectUniqueName": "f:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
       "projectName": "DataDisplayConnection",
-      "projectPath": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
+      "projectPath": "f:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\obj\\",
+      "outputPath": "f:\\projects\\DataDisplayConnection\\DataDisplayConnection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

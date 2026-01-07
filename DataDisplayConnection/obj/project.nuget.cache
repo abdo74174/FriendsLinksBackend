@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y53GI7Flf6A=",
+  "dgSpecHash": "w/tJUdfG8GI=",
   "success": true,
-  "projectFilePath": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
+  "projectFilePath": "f:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
@@ -99,9 +99,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "UglyToad.PdfPig 0.1.9-alpha001-patch1 depends on UglyToad.PdfPig.Core (>= 0.1.9-alpha001-patch1) but UglyToad.PdfPig.Core 0.1.9-alpha001-patch1 was not found. UglyToad.PdfPig.Core 1.7.0-custom-5 was resolved instead.",
-      "projectPath": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
+      "projectPath": "f:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
       "warningLevel": 1,
-      "filePath": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
+      "filePath": "f:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
       "libraryId": "UglyToad.PdfPig.Core",
       "targetGraphs": [
         "net8.0"
@@ -111,9 +111,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "UglyToad.PdfPig 0.1.9-alpha001-patch1 depends on UglyToad.PdfPig.Fonts (>= 0.1.9-alpha001-patch1) but UglyToad.PdfPig.Fonts 0.1.9-alpha001-patch1 was not found. UglyToad.PdfPig.Fonts 1.7.0-custom-5 was resolved instead.",
-      "projectPath": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
+      "projectPath": "f:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
       "warningLevel": 1,
-      "filePath": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
+      "filePath": "f:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
       "libraryId": "UglyToad.PdfPig.Fonts",
       "targetGraphs": [
         "net8.0"
@@ -123,9 +123,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "UglyToad.PdfPig 0.1.9-alpha001-patch1 depends on UglyToad.PdfPig.Tokenization (>= 0.1.9-alpha001-patch1) but UglyToad.PdfPig.Tokenization 0.1.9-alpha001-patch1 was not found. UglyToad.PdfPig.Tokenization 1.7.0-custom-5 was resolved instead.",
-      "projectPath": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
+      "projectPath": "f:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
       "warningLevel": 1,
-      "filePath": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
+      "filePath": "f:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
       "libraryId": "UglyToad.PdfPig.Tokenization",
       "targetGraphs": [
         "net8.0"
@@ -135,9 +135,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "UglyToad.PdfPig 0.1.9-alpha001-patch1 depends on UglyToad.PdfPig.Tokens (>= 0.1.9-alpha001-patch1) but UglyToad.PdfPig.Tokens 0.1.9-alpha001-patch1 was not found. UglyToad.PdfPig.Tokens 1.7.0-custom-5 was resolved instead.",
-      "projectPath": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
+      "projectPath": "f:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
       "warningLevel": 1,
-      "filePath": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
+      "filePath": "f:\\projects\\DataDisplayConnection\\DataDisplayConnection\\DataDisplayConnection.csproj",
       "libraryId": "UglyToad.PdfPig.Tokens",
       "targetGraphs": [
         "net8.0"

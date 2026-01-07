@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "F:\\projects\\DataDisplayConnection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\models\\cvparseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\models\\cvparseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\migrations\\20260107045430_addcvparsedfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\migrations\\20260107045430_addcvparsedfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\models\\profileclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\models\\profileclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\Migrations\\20260107051319_ss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataDisplayConnection\\Migrations\\20260107051319_ss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\migrations\\20251230181721_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\migrations\\20251230181721_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\models\\cvparseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\models\\cvparseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\models\\profileclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\models\\profileclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260107051319_ss.cs",
+              "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\Migrations\\20260107051319_ss.cs",
+              "RelativeDocumentMoniker": "DataDisplayConnection\\Migrations\\20260107051319_ss.cs",
+              "ToolTip": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\Migrations\\20260107051319_ss.cs",
+              "RelativeToolTip": "DataDisplayConnection\\Migrations\\20260107051319_ss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T05:13:19.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20260107045430_AddCvParsedFields.cs",
+              "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\Migrations\\20260107045430_AddCvParsedFields.cs",
+              "RelativeDocumentMoniker": "DataDisplayConnection\\Migrations\\20260107045430_AddCvParsedFields.cs",
+              "ToolTip": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\Migrations\\20260107045430_AddCvParsedFields.cs",
+              "RelativeToolTip": "DataDisplayConnection\\Migrations\\20260107045430_AddCvParsedFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T04:56:16.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CvParseResult.cs",
               "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\models\\CvParseResult.cs",
               "RelativeDocumentMoniker": "DataDisplayConnection\\models\\CvParseResult.cs",
@@ -54,25 +88,23 @@
               "RelativeToolTip": "DataDisplayConnection\\models\\CvParseResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T04:45:58.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T04:45:58.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "DataDisplayConnection\\Migrations\\AppDbContextModelSnapshot.cs",
               "ToolTip": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeToolTip": "DataDisplayConnection\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T04:45:46.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T04:45:46.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\appsettings.json",
               "RelativeDocumentMoniker": "DataDisplayConnection\\appsettings.json",
@@ -84,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "20251230181721_InitialCreate.cs",
               "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\Migrations\\20251230181721_InitialCreate.cs",
               "RelativeDocumentMoniker": "DataDisplayConnection\\Migrations\\20251230181721_InitialCreate.cs",
@@ -92,12 +124,11 @@
               "RelativeToolTip": "DataDisplayConnection\\Migrations\\20251230181721_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T18:22:02.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T18:22:02.762Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DataDisplayConnection\\data\\AppDbContext.cs",
@@ -109,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\Program.cs",
               "RelativeDocumentMoniker": "DataDisplayConnection\\Program.cs",
@@ -121,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ProfileClass.cs",
               "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\models\\ProfileClass.cs",
               "RelativeDocumentMoniker": "DataDisplayConnection\\models\\ProfileClass.cs",
@@ -129,12 +160,11 @@
               "RelativeToolTip": "DataDisplayConnection\\models\\ProfileClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T17:56:41.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T17:56:41.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "DataDisplayConnection\\Controllers\\ProfileController.cs",

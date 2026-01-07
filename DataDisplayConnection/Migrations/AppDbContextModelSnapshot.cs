@@ -82,7 +82,7 @@ namespace DataDisplayConnection.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Profiles");
+                    b.ToTable("Profiles", (string)null);
                 });
 #pragma warning restore 612, 618
         }

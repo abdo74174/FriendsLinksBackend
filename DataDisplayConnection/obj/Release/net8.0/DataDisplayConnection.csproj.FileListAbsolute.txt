@@ -138,3 +138,11 @@ F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\DataD
 F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\DataDisplayConnection.genruntimeconfig.cache
 F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\ref\DataDisplayConnection.dll
 F:\projects\DataDisplayConnection\DataDisplayConnection\obj\Release\net8.0\DataDisplayConnection.sourcelink.json
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\DocumentFormat.OpenXml.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\DocumentFormat.OpenXml.Framework.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\System.IO.Packaging.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\UglyToad.PdfPig.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\UglyToad.PdfPig.Core.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\UglyToad.PdfPig.Fonts.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\UglyToad.PdfPig.Tokenization.dll
+F:\projects\DataDisplayConnection\DataDisplayConnection\bin\Release\net8.0\UglyToad.PdfPig.Tokens.dll

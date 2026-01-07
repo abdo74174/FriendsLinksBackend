@@ -20,7 +20,26 @@ namespace DataDisplayConnection.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<ProfileClass>>> GetProfiles()
         {
-            return await _context.Profiles.ToListAsync();
+            // Exclude CvBase64 from the list to reduce payload size
+            return await _context.Profiles
+                .Select(p => new ProfileClass
+                {
+                    Id = p.Id,
+                    Name = p.Name,
+                    Email = p.Email,
+                    Linkedin = p.Linkedin,
+                    Github = p.Github,
+                    Facebook = p.Facebook,
+                    Portfolio = p.Portfolio,
+                    Phone = p.Phone,
+                    Skills = p.Skills,
+                    ExperienceYears = p.ExperienceYears,
+                    Education = p.Education,
+                    Certifications = p.Certifications,
+                    Languages = p.Languages,
+                    CvBase64 = null // Don't return the large base64 string in the list
+                })
+                .ToListAsync();
         }
 
         [HttpGet("{email}")]
