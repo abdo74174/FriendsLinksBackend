@@ -4577,7 +4577,8 @@
       "DocumentFormat.OpenXml >= 3.4.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.0",
-      "Swashbuckle.AspNetCore >= 6.6.2"
+      "Swashbuckle.AspNetCore >= 6.6.2",
+      "UglyToad.PdfPig >= 0.1.8"
     ]
   },
   "packageFolders": {
@@ -4647,6 +4648,10 @@
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.6.2, )"
+          },
+          "UglyToad.PdfPig": {
+            "target": "Package",
+            "version": "[0.1.8, )"
           }
         },
         "imports": [
@@ -4671,5 +4676,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1103",
+      "level": "Error",
+      "message": "Unable to find a stable package UglyToad.PdfPig with version (>= 0.1.8)\r\n  - Found 2 version(s) in nuget.org [ Nearest version: 0.1.9-alpha001-patch1 ]\r\n  - Found 0 version(s) in Microsoft Visual Studio Offline Packages",
+      "libraryId": "UglyToad.PdfPig",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
