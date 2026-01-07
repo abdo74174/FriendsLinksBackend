@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "F:\\projects\\DataDisplayConnection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\migrations\\20251230181721_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\migrations\\20251230181721_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\models\\profileclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\models\\profileclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\migrations\\20251230181721_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\migrations\\20251230181721_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|f:\\projects\\datadisplayconnection\\datadisplayconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80655E41-E5CC-45B3-8235-6CEA07CFA7E7}|DataDisplayConnection\\DataDisplayConnection.csproj|solutionrelative:datadisplayconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\appsettings.json",
+              "RelativeDocumentMoniker": "DataDisplayConnection\\appsettings.json",
+              "ToolTip": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\appsettings.json",
+              "RelativeToolTip": "DataDisplayConnection\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-30T19:23:21.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "20251230181721_InitialCreate.cs",
               "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\Migrations\\20251230181721_InitialCreate.cs",
               "RelativeDocumentMoniker": "DataDisplayConnection\\Migrations\\20251230181721_InitialCreate.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DataDisplayConnection\\data\\AppDbContext.cs",
@@ -59,19 +76,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\Program.cs",
               "RelativeDocumentMoniker": "DataDisplayConnection\\Program.cs",
               "ToolTip": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\Program.cs",
               "RelativeToolTip": "DataDisplayConnection\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T18:03:58.802Z"
+              "WhenOpened": "2025-12-30T18:03:58.802Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProfileClass.cs",
               "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\models\\ProfileClass.cs",
               "RelativeDocumentMoniker": "DataDisplayConnection\\models\\ProfileClass.cs",
@@ -79,19 +97,21 @@
               "RelativeToolTip": "DataDisplayConnection\\models\\ProfileClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T17:56:41.897Z"
+              "WhenOpened": "2025-12-30T17:56:41.897Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "DataDisplayConnection\\Controllers\\ProfileController.cs",
               "ToolTip": "F:\\projects\\DataDisplayConnection\\DataDisplayConnection\\Controllers\\ProfileController.cs",
               "RelativeToolTip": "DataDisplayConnection\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwDYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T17:56:06.119Z"
+              "WhenOpened": "2025-12-30T17:56:06.119Z",
+              "EditorCaption": ""
             }
           ]
         }
